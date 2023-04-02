@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-02T00:04:06 IST" name="Suite" finished-at="2023-04-02T00:04:15 IST" duration-ms="8612">
+    <groups>
+    </groups>
+    <test started-at="2023-04-02T00:04:06 IST" name="Test" finished-at="2023-04-02T00:04:15 IST" duration-ms="8612">
+      <class name="MVNTest2.OneTest">
+        <test-method signature="mOne()[pri:0, instance:MVNTest2.OneTest@43195e57]" started-at="2023-04-02T00:04:06 IST" name="mOne" finished-at="2023-04-02T00:04:15 IST" duration-ms="8579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mOne -->
+      </class> <!-- MVNTest2.OneTest -->
+      <class name="MVNTest2.FourTest">
+        <test-method signature="mFour()[pri:0, instance:MVNTest2.FourTest@1ab3a8c8]" started-at="2023-04-02T00:04:06 IST" name="mFour" finished-at="2023-04-02T00:04:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mFour -->
+      </class> <!-- MVNTest2.FourTest -->
+      <class name="MVNTest2.ThreeTest">
+        <test-method signature="mThree()[pri:0, instance:MVNTest2.ThreeTest@7714e963]" started-at="2023-04-02T00:04:06 IST" name="mThree" finished-at="2023-04-02T00:04:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mThree -->
+      </class> <!-- MVNTest2.ThreeTest -->
+      <class name="MVNTest2.TwoTest">
+        <test-method signature="mTwo()[pri:0, instance:MVNTest2.TwoTest@333291e3]" started-at="2023-04-02T00:04:15 IST" name="mTwo" finished-at="2023-04-02T00:04:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mTwo -->
+      </class> <!-- MVNTest2.TwoTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
