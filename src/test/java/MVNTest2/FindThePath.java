@@ -7,6 +7,8 @@ public class FindThePath {
 		String pathOfProject = System.getProperty("user.dir");
 		System.out.println(pathOfProject);
 
+		String str="Find the path";
+		System.out.println(str);
 	}
 
 }
